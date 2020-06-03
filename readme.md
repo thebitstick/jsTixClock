@@ -2,6 +2,8 @@
 
 A Tix clock written in Javascript. It's pretty simple!
 
+This fork makes the clock fit on a 800x480 Raspberry Pi Touchscreen Display.
+
 ![Screenshot](http://www.savjee.be/uploads/tixclock/screenshot.png)
 
 [See a demo of the Tix clock in action](http://www.savjee.be/uploads/tixclock/tixclock.html)
